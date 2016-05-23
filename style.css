@@ -1,0 +1,37 @@
+body {
+	background-color: #ffd633;
+	font-family: 'Orbitron', sans-serif; 
+}
+
+img {
+display: block;
+height: 300px;
+width: auto;
+}
+
+#title {
+background: #0000ff;
+padding: 5px;
+}
+
+#link {
+background: #ff1a1a;
+}
+
+#orange {
+background: #ff6600;
+}
+
+#war {
+background: #00cc00;
+}
+#war img {
+float:left;
+}
+p {
+padding: 15px;
+}
+
+iframe{
+padding-left: 350px;
+}
